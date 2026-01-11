@@ -1,0 +1,13 @@
+{
+    "Lua.workspace.ignoreDir": [
+        ".cache",
+        ".vscode",
+        ".build",
+        "c",
+        "executable",
+        "install",
+        "src"
+    ],
+    "lua.debug.settings.cpath": "install/lib/?.so",
+    "lua.debug.settings.path": "scripts/?.lua"
+}
